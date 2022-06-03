@@ -43,3 +43,18 @@ charv <- c("o","it","the","it","it")
 # Calculate the mode using the user function. 
 result <- getmode(charv) 
 print(result)
+
+
+
+
+
+
+
+
+
+************************
+[2 - R Fundamentals-1.pdf](https://github.com/M4blaster/M4blaster/files/8828910/2.-.R.Fundamentals-1.pdf)
+
+
+
+*************
